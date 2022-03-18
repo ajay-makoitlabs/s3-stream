@@ -22,5 +22,6 @@
 
 
 Todo: 
- -  [ ] see if it is possible to send using flags or input prompt
+  - [ ] see if it is possible to send using flags or input prompt
   - [ ] automate the steps with nohup with a single script ./start.sh
+  - [ ] Migrate to python from shell script `pip install inotify`
