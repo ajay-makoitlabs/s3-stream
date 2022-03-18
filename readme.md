@@ -1,4 +1,5 @@
 ## Setup
+ - sudo apt install inotify-tools
  - https://github.com/ajay-makoitlabs/s3-stream.git
  - cd s3-stream
  - chmod +x s3-sync.sh watch.sh stream.sh
